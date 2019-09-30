@@ -25,10 +25,10 @@ public class Main {
 //            count ++;
 //            if(i%3==0){                                //3
 //                count+=i;
-//                System.out.print(count + " ");
+//               System.out.print(count + " ");
 //            }
 //        }
-
+        
 
 //        int count = 0;
 //        for (int i = 1; i <= 1000000; i++) {
@@ -36,12 +36,12 @@ public class Main {
 //            if (1000000 % i == 0) {                         //4
 //
 //                count++;
-//                System.out.print(count + " ");
+//               
 //
 //            }
 //
 //        }
-
+//        System.out.print(count + " ");
 
 //        int a= 45;
 //        int b= 87;
