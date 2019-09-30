@@ -60,8 +60,9 @@ public class Main {
 //        int fact = 1;
 //        for(int i=7; i>=1; i--){                  //7
 //            fact= fact * i;
-//            System.out.println(fact+ "  " );
+//           
 //        }
+         System.out.println(fact+ "  " );
 
 //        for(int i=100; i<10000; i++){
 //            if (i%2!=0){
